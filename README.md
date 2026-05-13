@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ABAC GUI
 
 This project is a clean rebuild of `abac_gui` based on `abac_gui开发设计文档.md`.
@@ -22,3 +23,7 @@ Runtime dependencies:
 - PyQt5
 - pexpect
 
+=======
+# abac_utils_gui
+A gui for abac_utils
+>>>>>>> 28e5ea12c92638d035c8884cc277ce3fc646173a
